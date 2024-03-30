@@ -24,7 +24,7 @@ Feel free to connect with me on other social networks, and if you need help or h
 
 [//]: # (<img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />)
 
-## ✉️ Profile Views
+## 👩‍💻 Profile Views
 [//]: # (<h3>Profile Views</h3>)
  <p align="left"> <img src="https://profile-counter.glitch.me/shimaarian/count.svg" alt="shima" /> </p>
  
