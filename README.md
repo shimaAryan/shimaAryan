@@ -17,7 +17,8 @@ Feel free to connect with me on other social networks, and if you need help or h
 <br><br>
 
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:shimaarian72@gmail.com)
-[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]([https://www.linkedin.com/in/ana-beatriz-valentim](https://www.linkedin.com/in/shima-arian-051870249/)
+[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shima-arian-051870249/)
+
 
 <br><br><br>
 
