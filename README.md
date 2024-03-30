@@ -20,7 +20,7 @@ Feel free to connect with me on other social networks, and if you need help or h
 [<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shima-arian-051870249/)
 
 
-<br><br><br>
+<br>
 
 
 ## 👩‍💻 Profile Views
@@ -52,7 +52,7 @@ Feel free to connect with me on other social networks, and if you need help or h
 <code><img height="30" src="./getpostman-icon.svg" ></code>
 
 <br />
-<br />
+
 
 ## 📈 My GitHub Stats
 <br />
@@ -63,7 +63,7 @@ Feel free to connect with me on other social networks, and if you need help or h
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shimaarian&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 </p>
   
-<br><br>
+<br>
 
 ## 🔝 Most Used Languages
 <br />
