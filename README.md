@@ -10,9 +10,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=I'm+Back+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Bachelor+of+Information+Technology+Systems%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 </div>
 
-# ✉️ Contacts
+[//]: # (<h3> ✉️ Contacts</h3>)
+## ✉️ Contacts
 
-<br>
+[//]: # (<br>)
  
 Feel free to connect with me on other social networks, and if you need help or have questions and suggestions, send me a message. 😉
 
@@ -23,13 +24,15 @@ Feel free to connect with me on other social networks, and if you need help or h
 
 [//]: # (<img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />)
 
-
-<h3>Profile Views</h3>
+## ✉️ Profile Views
+[//]: # (<h3>Profile Views</h3>)
  <p align="left"> <img src="https://profile-counter.glitch.me/shimaarian/count.svg" alt="shima" /> </p>
  
  </br>
 
-**Languages and Tools::**
+## ⌨️ Languages and Tools
+
+[//]: # (**Languages and Tools::**)
 <br>
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code>
@@ -53,8 +56,23 @@ Feel free to connect with me on other social networks, and if you need help or h
 <br />
 <br />
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=shimaarian&show_icons=true&locale=en" alt="shima" /></p>
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=shimaarian'></p>
+## 📈 My GitHub Stats
+<br />
+
+
+<p align="center">
+   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=shimaarian&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shimaarian&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+</p>
+  
+<br>
+
+## 🔝 Most Used Languages
+<br />
+
+[//]: # (<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=shimaarian&show_icons=true&locale=en" alt="shima" /></p>)
+
+[//]: # (<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=shimaarian'></p>)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaarian&hide=java,scss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
