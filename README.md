@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=I'm+Back+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Bachelor+of+Information+Technology+Systems%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 </div>
-
+<br><br>
 [//]: # (<h3> ✉️ Contacts</h3>)
 ## ✉️ Contacts
 
@@ -54,7 +54,6 @@ Feel free to connect with me on other social networks, and if you need help or h
 
 <br />
 <br />
-<br />
 
 ## 📈 My GitHub Stats
 <br />
@@ -65,7 +64,7 @@ Feel free to connect with me on other social networks, and if you need help or h
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shimaarian&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 </p>
   
-<br>
+<br><br>
 
 ## 🔝 Most Used Languages
 <br />
