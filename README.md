@@ -1,13 +1,13 @@
-## Hello, I'm shima! 👋
+[//]: # (## Hello, I'm shima! 👋)
 
 <br>
 <div>
   <img align="center" alt="Banner-shima" width="100%" src="./banner_welcome-us .png">
 </div>
-
+<br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Welcome+to+my+Profile!+%F0%9F%98%89;I'm+Back+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Bachelor+of+Information+Technology+Systems%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=I'm+Back+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Bachelor+of+Information+Technology+Systems%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 </div>
 
 # ✉️ Contacts
@@ -25,7 +25,7 @@ Feel free to connect with me on other social networks, and if you need help or h
 
 
 <h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/shima/count.svg" alt="shima" /> </p>
+ <p align="left"> <img src="https://profile-counter.glitch.me/shimaarian/count.svg" alt="shima" /> </p>
  
  </br>
 
@@ -53,10 +53,11 @@ Feel free to connect with me on other social networks, and if you need help or h
 <br />
 <br />
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=shima&show_icons=true&locale=en" alt="desphixs" /></p>
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=shima'></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=shimaarian&show_icons=true&locale=en" alt="shima" /></p>
+<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=shimaarian'></p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shima&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaarian&hide=java,scss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
